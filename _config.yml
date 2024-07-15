@@ -39,6 +39,9 @@ navigation_links:
   - title: Projects
     url: /projects
 
+  - title: Archive
+    url: /archive
+
 # Footer icons
 footer_links:
   - title: Feed
